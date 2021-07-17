@@ -1,3 +1,4 @@
+# This project was created as part of the ShowCode Level Up Society Hackathon
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
