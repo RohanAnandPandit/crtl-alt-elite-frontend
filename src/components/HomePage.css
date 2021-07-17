@@ -1,0 +1,16 @@
+.logo {
+    width: 100px;
+    height: auto;
+    margin: 10px;
+}
+
+.logo:hover {
+    width: 110px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
