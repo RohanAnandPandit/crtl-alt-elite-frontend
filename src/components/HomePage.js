@@ -1,14 +1,15 @@
 import React from "react";
 import AppMenu from "./AppMenu";
 import Link from '@material-ui/core/Link';
-import "linkedin.svg";
-import "github.svg";
-import "instagram.svg";
+import "LinkedIn.svg";
+import "GitHub.svg";
+import "Instagram.svg";
+import "Reddit.svg"
 import "./HomePage.css";
 
 const websites = [
-    'linkedin',
-    'github',
+    'LinkedIn',
+    'GitHub',
 ]
 export default class HomePage extends React.Component {
     render() {
@@ -27,13 +28,21 @@ export default class HomePage extends React.Component {
                     ))
                     }
 
-                <div>
-                    <Link href={`/tips/instagram`}>
-                        <div className="logo">
-                            <img src={`instagram.svg`} alt={`instagram`} width="100px" height="100px"></img>
-                        </div>
-                    </Link>
-                </div>
+                    <div>
+                        <Link href="/tips/Instagram">
+                            <div className="logo">
+                                <img src="Instagram.svg" alt="Instagram" width="100px" height="100px"></img>
+                            </div>
+                        </Link>
+                    </div>
+
+                    <div>
+                        <Link href="/tips/Reddit">
+                            <div className="logo">
+                                <img src="Reddit.svg" alt="Reddit" width="100px" height="100px"></img>
+                            </div>
+                        </Link>
+                    </div>
                 </div>
             </React.Fragment>
         );
