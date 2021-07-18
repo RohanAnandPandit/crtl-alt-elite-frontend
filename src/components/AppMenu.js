@@ -68,7 +68,7 @@ export default function AppMenu() {
                     ProTip
                 </Typography>
             </a>
-            <Button color="inherit">Login</Button>
+            <Button color="inherit">Badges</Button>
             <SimpleMenu/>
         </Toolbar>
         </AppBar>
