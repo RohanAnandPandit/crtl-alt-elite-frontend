@@ -1,15 +1,68 @@
 {
    "LinkedIn": [
        "Add professional profile picture",
-       "Add background photo"
+       "Add background photo",
+       "Grow your network",
+       "List your relevant skills",
+       "Spotlight the services you offer",
+       "Take a skills assessment",
+       "Request recommendations",
+       "Share relevant content from your LinkedIn feed",
+       "Add comments",
+       "Follow relevant influencers for your industry"
    ], 
    "GitHub": [
-
+       "Pull frequently",
+       "Commit early and often",
+       "Push when your changes are tested",
+       "Merge carefully",
+       "Stash before switching branches",
+       "Contribute to open source projects",
+       "Use editors and IDEs that integrate git",
+       "Fork a repo",
+       "Watch projects",
+       "Follow friends",
+       "Send pull requests",
+       "Create and resolve issues",
+       "Write informative README pages",
+       "Use Markdown",
+       "Convert your older repos to Git",
+       "Automate your workflow with GitHub Actions",
+       "Build and publish packages",
+       "Scan your code for vulnerabilities",
+       "Publish your documentation pages",
+       "Collaborate on documentation in wikis"
    ],
    "Instagram": [
-
+       "Clearly communicate what you do",
+       "Give your posts a distinctive look",
+       "Use special hashtags wisely",
+       "Brand your hashtags",
+       "Caption your images and videos",
+       "Use layout and angles",
+       "Use links and landing pages",
+       "Ask for a response",
+       "Plan your posts",
+       "Use scheduling tools",
+       "Track what's working",
+       "Have an Instagram image feed on your website"
    ],
    "Reddit": [
-
+        "Understand The Subreddit",
+        "Search For A Subreddit",
+        "Create An Account And Subscribe",
+        "Learn How To Style Your Comment",
+        "Follow Some People",
+        "Find New Stuff With The Random Button",
+        "Sort The Subreddit Submission",
+        "Combine Subreddits Into A Multireddit",
+        "Linking Comments",
+        "Create A Slideshow Of Pictures In A Subreddit",
+        "Live Update Of Reddit Comments",
+        "Use Mobile Site for Smartphones",
+        "Change The Interface Language",
+        "Quote a Redditor By Highlighting Before Pressing Comment",
+        "Unblock A Subreddit",
+        "Reddit Everywhere With Extensions"
    ]
 }
